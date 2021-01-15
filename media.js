@@ -9,8 +9,6 @@ var media;
 var mediana;
 var variancia;
 var desvioPadrao;
-var repeticao = 0;
-console.log(numero.length)
 
 for (var i = 0 ; i < numero.length ; i++){
     total += numero [i];
